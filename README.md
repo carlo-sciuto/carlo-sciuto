@@ -7,7 +7,7 @@ Le mie abilità nel web ricoprono sia la parte grafica, che la parte backend-fro
 
 💻 - Front-end: `Html5`, `Css3`, `Scss`, `Sass`, `Js`, `Es6-9`, `Twig`
 
-⚙️ - Back-end: `NestJS`, `Express`, `Python`, `Go`
+⚙️ - Back-end: `NestJS`, `Hasura`, `Express`, `Python`, `Go`
 
 💾 - Databases: `PostgreSQL`, `MongoDB`, `Mysql`
 
