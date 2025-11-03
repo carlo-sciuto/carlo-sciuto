@@ -5,13 +5,17 @@ Le mie abilità nel web ricoprono sia la parte grafica, che la parte backend-fro
 
 #### I'm a Full-Stack Developer and Web Designer UI/UX working in Catania, Sicily.
 
-💻 - Front-end: `Html5`, `Css3`, `Scss`, `Sass`, `Js`, `Es6-9`, `Jquery`, `Twig`, `Json`
+💻 - Front-end: `Html5`, `Css3`, `Scss`, `Sass`, `Js`, `Es6-9`, `Twig`
 
-⚙️ - Back-end: `Nodejs`, `Php`, `Python`, `Go`, `MongoDB`, `Mysql`
+⚙️ - Back-end: `NestJS`, `Express`, `Python`, `Go`
 
-🌌 - Frameworks: `Express`, `ReactJS`, `Next.js`, `Vue.JS`, `Nuxt.js`
+💾 - Databases: `PostgreSQL`, `MongoDB`, `Mysql`
 
-☁️ - Cloud Platforms: `Heroku`, `Google Cloud`, `DigitalOcean`, `AWS`, `Fleek.co`
+🧰 - ORM: `Prisma`, `Mongoose`
+
+🌌 - Frameworks: `ReactJS`, `NextJS`, `Vue`, `Nuxt`
+
+☁️ - Cloud Platforms: `Àzure`, `Heroku`, `Google Cloud`, `DigitalOcean`, `AWS`, `Fleek.co`
 
 🏪 - CMS Platforms: `Shopify`, `Storeden`, `Wordpress`
 
@@ -20,8 +24,4 @@ Le mie abilità nel web ricoprono sia la parte grafica, che la parte backend-fro
 📬 - Email Marketing Integration: `Mailchimp`, `Klaviyo`, `ActiveCampaign`
 
 🎨 - Art: `Photoshop CC`, `Figma`, `Illustrator CC`, `Canva`
-
-##### In Learning...
-
-💎 - Blockchain: `BSC smart chain`, `Solidity`
 
